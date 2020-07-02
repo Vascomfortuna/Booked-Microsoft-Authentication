@@ -45,6 +45,6 @@
   Make sure your Redirect URI is set on "Authentication" tab. 
   If it isnt, you can add it by selecting "Add new platform" and adding the "microsoftProfile.php" URL path.
   
-  When you create your app it should come with "user.read" permissions that you need for this to work.
-  You can check this on "API Permissions" tab, where you can add "user.read" from "micrsoft.graph"
+  When you create your app it should come with "user.read" permissions, that the app needs for the user login to work.
+  You can check this on "API Permissions" tab, where you can add "user.read" from "micrsoft.graph".
   
