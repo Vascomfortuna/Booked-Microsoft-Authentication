@@ -17,8 +17,11 @@
 		
 		2.1) Your app must have the redirect url to your file "microsoftProfile.php".
 			Ex:"http://localhost/booked/WebServices/MicrosoftLogin/microsoftProfile.php".
+			
+  3) To the microsoft login button's href, located in "tpl/login.tpl", you need to put your CLIENT_ID 
+		and redirect_uri to your "microsoftProfile.php", from 2.1).
 		
-  3) After you do this, you are all set and your booked app should have microsoft authentication.
+  4) After you do this, you are all set and your booked app should have microsoft authentication.
 
 ## GETTING A PORTAL.AZURE APP RUNNING
 

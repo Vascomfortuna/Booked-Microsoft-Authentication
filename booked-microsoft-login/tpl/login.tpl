@@ -136,7 +136,7 @@ along with Booked Scheduler.  If not, see <http://www.gnu.org/licenses/>.
 				<!--http://localhost/booked/WebServices/MicrosoftLogin/microsoftLogin.php-->
 				<div class="{$socialClass} social-login" >
 					<a href="https://login.microsoftonline.com/consumers/oauth2/v2.0/authorize?
-					client_id=38447a9d-9422-4a24-9a45-6be935c4de35
+					client_id=
 					&response_type=code
 					&redirect_uri=http://localhost/booked/WebServices/MicrosoftLogin/microsoftProfile.php
 					&response_mode=query
